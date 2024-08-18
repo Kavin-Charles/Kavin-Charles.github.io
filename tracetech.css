@@ -2,14 +2,14 @@
     font-family: "Jost", sans-serif;
 }
 ::selection {
-    background: rgba(55,81,126,0.9);
+    background: rgba(136, 176, 245, 0.9);
     color: #f3f3f6;
   }
 .bgcolor{
-    background-color: #37517e;
+    background-color: #9cbef9;
 }
 .headbgcolor{
-    background-color:rgba(55,81,126,0.9) ;
+    background-color: #9cbef9 ;
 }
 .getstart:hover{
     background-color: #269fef;
@@ -119,7 +119,7 @@ watchnow{
 }
 .blueimg{
     /* padding:100px 200px; */
-    background-color:rgba(55,81,126,0.7) ;
+    background-color: #9cbef94b ;
 }
 #portfolio-ul{
     list-style-type: none;
